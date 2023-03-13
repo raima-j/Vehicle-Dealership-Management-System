@@ -1,0 +1,16 @@
+model_no,model_name,mnf_name,branch_id
+S1,Scorpio,Mahindra,B01
+T1,Thar,Mahindra,B03
+R1,Rexton,Mahindra,B02
+B1,Bolero,Mahindra,B05
+K1,KUV100,Mahindra,B06
+C1,Camry,Toyota,B08
+C2,Corolla,Toyota,B04
+P1,Prius,Toyota,B07
+G1,Glanza,Toyota,B09
+T2,86,Toyota,B10
+P2,Polo,volkswagen,B01
+V1,Vento,volkswagen,B03
+T3,T-Cross,volkswagen,B06
+V2,Virtus,volkswagen,B04
+T4,Tiguan,volkswagen,B09
